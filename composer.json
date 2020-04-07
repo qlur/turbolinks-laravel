@@ -9,7 +9,9 @@
             "email": "lym125@gmail.com"
         }
     ],
-    
+    "require": {
+ "php": ">=7.1"
+    },
     "autoload": {
         "psr-4": {
             "Lym125\\Turbolinks\\": "src/"
