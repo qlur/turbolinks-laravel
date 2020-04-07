@@ -1,17 +1,8 @@
 {
-    "name": "lym125/turbolinks-laravel",
-    "description": "Turbolinks for Laravel",
+    "name": "qlur/turbolinks-laravel",
+    "description": "qlur/turbolinks-laravel",
     "keywords": ["laravel", "turbolinks"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "李静",
-            "email": "lym125@gmail.com"
-        }
-    ],
-    "require": {
- "php": ">=7.1"
-    },
     "autoload": {
         "psr-4": {
             "Lym125\\Turbolinks\\": "src/"
