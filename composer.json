@@ -3,6 +3,10 @@
     "description": "qlur/turbolinks-laravel",
     "keywords": ["laravel", "turbolinks"],
     "license": "MIT",
+     "require": {
+        "php" : ">=7.1"
+    },
+    
     "autoload": {
         "psr-4": {
             "Lym125\\Turbolinks\\": "src/"
